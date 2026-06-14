@@ -133,5 +133,5 @@ I'm an Applied AI PM who builds to understand. Background in journalism and digi
 > Currently building AI workflow products and actively exploring opportunities. If you're hiring for AI PM roles or want to collaborate on a product — let's talk.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryanpathak"><b>Connect on LinkedIn →</b></a>
+  <a href="https://www.linkedin.com/in/aryankumarpathak"><b>Connect on LinkedIn →</b></a>
 </p>
