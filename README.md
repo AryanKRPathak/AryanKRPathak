@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryanpathak">LinkedIn</a> ·
-  <a href="mailto:aryan@email.com">Email</a>
+  <a href="https://www.linkedin.com/in/aryankumarpathak">LinkedIn</a> ·
+  <a href="mailto:aryanpathak099@gmail.com">Email</a>
 </p>
 
 ---
