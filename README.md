@@ -56,7 +56,6 @@ I'm an Applied AI PM who builds to understand. Background in journalism and digi
 |---|---|---|
 | [HRMS — AI HR Copilot](https://github.com/AryanKRPathak/HRMS) | Enterprise HR workflow automation via RAG | TypeScript |
 | [Genie — Text to SQL](https://github.com/AryanKRPathak/Genie--Text-to-SQL-) | Natural language → SQL for non-technical users | TypeScript |
-| [Apply Job Buddy](https://github.com/AryanKRPathak/Apply-job-buddy) | AI copilot to streamline job applications | TypeScript |
 | [job-apply](https://github.com/AryanKRPathak/job-apply) | Automated job application pipeline | Python |
 | [AI Stack](https://github.com/AryanKRPathak/AI_Stack) | Full-stack AI toolkit for rapid prototyping | TypeScript |
 | [Spotify Suggestions](https://github.com/AryanKRPathak/Spotify--For-you-suggestion) | Personalized music recommendation engine | TypeScript |
